@@ -19,6 +19,8 @@ Student at BYU-Idaho, pursuing a major in Data Science with a minor in Ag Buisne
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
+s
+- test
 
 
 ## Work Experience
